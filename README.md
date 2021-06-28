@@ -51,10 +51,6 @@ Out-of-Bound is a kind of dangerous and common vulnerability in programs. The so
     Use valgrind,AS to reproduce the call stack，compare with CVE
     $./scripts/get_cves.py exiv2    crawl CVE informations
 
-## 联系信息
-
-蔡春芳
-中国科学院软件研究所基础软件中心
 
 
 
