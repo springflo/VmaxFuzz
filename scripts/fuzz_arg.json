@@ -1,0 +1,21 @@
+[
+    {
+        "catdoc":     ["", "catdoc @@"], 
+        "libming":    ["", "listswf @@"], 
+        "libtiff":    ["", "tiff2pdf @@ -o /dev/null"], 
+        "exiv2": ["", "exiv2 @@"], 
+        "ngiflib":    ["-m 1000", "gif2tga --outbase /dev/null @@"], 
+        "tcpreplay":  ["", "tcpprep --auto=bridge --pcap=@@ --cachefile=/dev/null"], 
+        "liblouis":   ["", "lou_checktable @@"], 
+        "exiv2":      ["", "exiv2 @@"], 
+        "flvmeta":    ["", "flvmeta @@"], 
+        "gpac":       ["-m 1000", "MP4Box -diso @@ -out /dev/null"], 
+        "new_exiv2":  ["", "exiv2 @@"], 
+        "nasm":       ["", "nasm @@ -o /dev/null"]
+    },
+    {
+      "tofuzz_path" : ["/home/cai/workspace/fuzz/Vmaxfuzz/"], 
+      "download_path":    ["/home/cai/workspace/download/"], 
+      "programs_path":    ["/home/cai/workspace/fuzz/Vmaxfuzz/programs/"]
+    }
+]

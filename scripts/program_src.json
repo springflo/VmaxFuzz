@@ -1,0 +1,18 @@
+[
+    {
+        "catdoc":     ["http://ftp.wagner.pp.ru/pub/catdoc/", "catdoc-0.95.tar.gz", ""], 
+        "libming":    ["https://github.com/libming/libming/archive/", "ming-0_4_8.tar.gz", ""],
+        "libtiff":    ["https://github.com/vadz/libtiff/archive/", "Release-v4-0-9.tar.gz", ""], 
+        "ngiflib":    ["https://github.com/miniupnp/ngiflib/archive/", "0.4.tar.gz", ""], 
+        "tcpreplay":  ["https://github.com/appneta/tcpreplay/archive/", "v4.3.3.tar.gz", ""], 
+        "liblouis":   ["https://github.com/liblouis/liblouis/archive/", "v3.7.0.tar.gz", "v3.17.0.tar.gz"], 
+        "exiv2":      ["https://github.com/Exiv2/exiv2/archive/", "v0.26.tar.gz", "v0.27.3.tar.gz"], 
+        "flvmeta":    ["https://github.com/noirotm/flvmeta/archive/", "v1.2.1.tar.gz", "v1.2.2.tar.gz"], 
+        "gpac":       ["https://github.com/gpac/gpac/archive/", "v0.7.1.tar.gz", "v1.0.1.tar.gz"], 
+        "nasm":       ["https://github.com/netwide-assembler/nasm/archive/", "nasm-2.14rc4.tar.gz", "nasm-2.15.05.tar.gz"],
+        "binutils":   ["https://github.com/bminor/binutils-gdb/archive/", "binutils-2_36.tar.gz", "binutils-2_36_1.tar.gz"]
+    }, 
+    {
+        "download_path":    ["/home/cai/workspace/download/"]
+    }
+]
